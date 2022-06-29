@@ -1,0 +1,4 @@
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component C2 Cap
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component D4 Diode 1N4007
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component R4 Res1
+Added Room: Name=Power_Adjustable_With_LM317T

@@ -1,0 +1,18 @@
+Change Component Comment : Designator=F1 Old Comment=2A New Comment=Fuse 6A Ceramic
+Change Component Comment : Designator=VR1 Old Comment=5K 0.5W New Comment=Trimmer 5K 0.5W
+Change Component Comment : Designator=Z1 Old Comment=9.1V New Comment=Zener 9.1V
+Change Component Comment : Designator=Z2 Old Comment=30V New Comment=Zener 30V
+Change Component Comment : Designator=MOV1 Old Comment=30VDC New Comment=Varistor 30VDC
+Change Component Comment : Designator=C4 Old Comment=33u 50V New Comment=Polarized Cap 33u 50V
+Change Component Comment : Designator=C2 Old Comment=100nF 50V New Comment=Cap Ceramic 100nF 50V
+Change Component Comment : Designator=C1 Old Comment=100uF 50V New Comment=Polarized Cap 100uF 50V
+Change Component Comment : Designator=C3 Old Comment=100uF 50V New Comment=Polarized Cap 100uF 50V
+Change Component Comment : Designator=J3 Old Comment=JST New Comment=JST on PCB Connector 2 pins
+Change Component Comment : Designator=J4 Old Comment=JST New Comment=JST on PCB Connector 2 pins
+Change Component Comment : Designator=J2 Old Comment=PJ New Comment=DC Power Jack PJ002
+Change Component Comment : Designator=J5 Old Comment=PJ New Comment=DC Power Jack PJ002
+Change Component Comment : Designator=LED1 Old Comment=RED New Comment=RED 5mm
+Change Component Comment : Designator=LED2 Old Comment=RED New Comment=RED 5mm
+Change Component Comment : Designator=J6 Old Comment=Ros New Comment=Terminal Block Blue 5.08mm
+Change Component Comment : Designator=J1 Old Comment=Ros New Comment=Terminal Block Green 5.08mm
+Change Component Comment : Designator=IC1 Old Comment=TIP32C New Comment=TIP32C With Heatsink

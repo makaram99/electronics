@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R4 Old Footprint=RES 2.54MM V TH New Footprint=Res 5.08mm V TH
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component C2 100nF 50V

@@ -1,0 +1,5 @@
+Change Component Comment : Designator=J1 Old Comment=JST New Comment=JST on PCB Connector 2 pins
+Change Component Comment : Designator=J3 Old Comment=PJ New Comment=DC Power Jack PJ002
+Change Component Comment : Designator=J4 Old Comment=Power Device New Comment=Terminal Block Blue 5.08mm
+Change Component Comment : Designator=J2 Old Comment=Screw New Comment=Terminal Block Green 5.08mm
+Added Room: Name=Control

@@ -1,0 +1,4 @@
+Change Component Comment : Designator=Z? Old Comment=1N4735A New Comment=9.1V
+Change Component Designator: OldDesignator=Z? NewDesignator=Z1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component Z1 9.1V
+Added Room: Name=Power_Adjustable_With_LM317T

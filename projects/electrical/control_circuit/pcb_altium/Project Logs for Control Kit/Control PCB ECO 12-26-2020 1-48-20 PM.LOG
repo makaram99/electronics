@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MCLR Pin=J11-1
+Removed Pin From Net: NetName=MCLR Pin=J12-1
+Removed Member From Class: ClassName=Control Member=J11
+Removed Member From Class: ClassName=Control Member=J12
+Added Room: Name=Control

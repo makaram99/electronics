@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R6 Old Footprint=Res 12.7mm H TH New Footprint=Res 7.62mm V TH
+Added Pin To Net: NetName=GND Pin=C2-1

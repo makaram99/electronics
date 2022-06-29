@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=GND Old Footprint=Header Male 2.54mm 8 Pins TH New Footprint=Header Male 2.54mm 8 Pins TH
+Change Component Footprint: Designator=VCC Old Footprint=Header Male 2.54mm 8 Pins TH New Footprint=Header Male 2.54mm 8 Pins TH
+Added Room: Name=Control

@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=NetC1_1 New Net Name=GND
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=VCC
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=F1-2
+Added Pin To Net: NetName=NetC1_1 Pin=F1-2
+Added Pin To Net: NetName=NetC1_1 Pin=IC2-3
+Added Pin To Net: NetName=NetC1_1 Pin=MOV1-2
+Added Pin To Net: NetName=NetC1_1 Pin=R3-2
+Added Net: Name=NetC1_1

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Component Designator: OldDesignator=P? NewDesignator=P12
+Change Component Designator: OldDesignator=P? NewDesignator=P13
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ5_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ5_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ5_3
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ5_4
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP2_2
+Added Member To Class: ClassName=Control Member=Component J5 3A
+Added Member To Class: ClassName=Control Member=Component P2 2340-6111TG
+Added Member To Class: ClassName=Control Member=Component P7 2340-6111TG
+Added Member To Class: ClassName=Control Member=Component P12 2340-6111TG
+Added Member To Class: ClassName=Control Member=Component P13 2340-6111TG
+Added Room: Name=Control

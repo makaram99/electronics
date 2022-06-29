@@ -1,0 +1,9 @@
+Remove Pin=J7-1 From Net=+VE
+Remove Pin=J7-2 From Net=-VE
+Remove Pin=J8-1 From Net=PU1
+Remove Pin=J8-2 From Net=PU2
+Remove Pin=J9-1 From Net=PD1
+Remove Pin=J9-2 From Net=PD2
+Change Component Footprint: Designator=D3 Old Footprint=Diode 10.16mm TH H New Footprint=Diode 5.08mm TH V
+Change Component Footprint: Designator=P? Old Footprint=Header Male 2.54mm 9 Pins TH New Footprint=Header Male 2.54mm 9 Pins TH
+Change Component Designator: OldDesignator=RL2 NewDesignator=

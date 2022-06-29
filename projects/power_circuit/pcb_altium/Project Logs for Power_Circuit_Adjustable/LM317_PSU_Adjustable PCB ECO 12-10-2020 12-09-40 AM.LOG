@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C1 Old Footprint=Capacitor 2.54mm 7mmRadial New Footprint=Cap 5.08mm Radial
+Change Component Comment : Designator=C3 Old Comment=10uF 50V New Comment=100uF 50V
+Change Component Comment : Designator=C4 Old Comment=33uF 50V New Comment=100uF 50V
+Change Component Comment : Designator=R2 Old Comment=100K 0.25W New Comment=1.8K 1W
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Room: Name=Power_Adjustable_With_LM317T
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil

@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=IC2 Old Footprint=LM317T TH New Footprint=LM317M SMT
+Added Room: Name=Power_Adjustable_With_LM317T

@@ -1,0 +1,16 @@
+LDOs Vs. Switching Regulators - Power Regulation in PCB Design: Part One: https://www.youtube.com/watch?v=lHK--OKijkQ&list=PL3aaAq2OJU5EQkxTgivfb4WpbZzVSaptc
+
+LDO Deep Dive - Power Regulation in PCB Design: Part Two: https://www.youtube.com/watch?v=NH96-F-hVWg&list=PL3aaAq2OJU5EQkxTgivfb4WpbZzVSaptc&index=2
+
+Switching Regulators Deep Dive - Power Regulation in PCB Design: Part Three: https://www.youtube.com/watch?v=m513CViHhN0&list=PL3aaAq2OJU5EQkxTgivfb4WpbZzVSaptc&index=3
+
+Summary:
+	Switching regulators has a disadvantage of output noise. So, they should not be used with analog circuits
+
+	Linear regulators efficiency decreases as (Vo - Vi) increases. Also, the voltage difference is dissipatedd as heat power
+
+	So, Buck converters are the best solution with digital circuits. They can be used to step down from a very higher voltage level to another level closer to the required level, then a linear regulator can be used to step the required level, this ensures higher regulation efficiency.
+
+	Buck converters have a feedback pin because the input may be fluctuating over time, which in return will make the output fluctuates. So, the output is fedback to the buck converter to make the output pure.
+	
+	

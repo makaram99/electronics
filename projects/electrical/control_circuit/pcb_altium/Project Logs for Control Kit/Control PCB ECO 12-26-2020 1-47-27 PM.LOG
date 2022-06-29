@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VOUT Pin=J10-1
+Removed Pin From Net: NetName=VCC_5V Pin=J10-2
+Change Component Footprint: Designator=P15 Old Footprint=HEADER MALE 2.54MM 3 PINS TH New Footprint=Header Male 2.54mm 3 Pins TH
+Change Component Footprint: Designator=P16 Old Footprint=HEADER MALE 2.54MM 3 PINS TH New Footprint=Header Male 2.54mm 3 Pins TH
+Added Component: Designator=J11(Pin)
+Added Component: Designator=J12(Pin)
+Added Pin To Net: NetName=VCC_5V Pin=J10-1
+Added Pin To Net: NetName=VOUT Pin=J10-2
+Added Pin To Net: NetName=MCLR Pin=J11-1
+Added Pin To Net: NetName=MCLR Pin=J12-1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetJ4_2
+Added Member To Class: ClassName=Control Member=Component C4 100nF 50V
+Added Member To Class: ClassName=Control Member=Component J10 Header male 2 ways
+Added Member To Class: ClassName=Control Member=Component J11 Pin
+Added Member To Class: ClassName=Control Member=Component J12 Pin
+Added Member To Class: ClassName=Control Member=Component J13 Header male 2 ways
+Added Member To Class: ClassName=Control Member=Component J14 Header male 2 ways
+Added Member To Class: ClassName=Control Member=Component P1 Header male 8 ways
+Added Member To Class: ClassName=Control Member=Component P3 Header male 8 ways
+Added Member To Class: ClassName=Control Member=Component P12 Header male 6 ways
+Added Member To Class: ClassName=Control Member=Component P13 Header male 3 ways with jumper
+Added Room: Name=Control

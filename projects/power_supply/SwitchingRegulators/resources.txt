@@ -1,0 +1,36 @@
+Developing DC-DC Converter Control with Simulink: https://www.youtube.com/playlist?list=PLn8PRpmsu08rgCYib2DSkwWiy1Avt8ZUY
+
+SMPS Circuit Design: Which Switching Frequency to Use?: https://resources.altium.com/p/smps-circuit-design-which-switching-frequency-use
+
+Switch Mode Power Supply (AC --> DC):
+	#79 Basics of switching mode power supplys: https://www.youtube.com/watch?v=4-oN4m1PPxY&list=PLwk7avoCTfzN71EeHfZ6_DmQ8f1hfl1h3
+
+	#213 Detailed step by step SMPS Power Supply repair. Loaded with tons of repair tips: https://www.youtube.com/watch?v=RaV_s4WgTxI
+
+	Switching Power Supply PCB Layout Seminar: https://www.youtube.com/watch?v=gq-0ZpcGm8E
+
+	SWITCHING POWER SUPPLY PRIMER PART I - WHY DO YOU WANT TO BUILD A SWITCHING POWER SUPPLY?: https://www.youtube.com/watch?v=R7aVAXo1fZo
+
+	How to Build a 12V, 15W SMPS Circuit on PCB: https://www.youtube.com/watch?v=1wAKFC0XXzk&t=25s
+
+	How Does a Switching Power Supply Work 1 (schematic, explanation, example, modifications): https://www.youtube.com/watch?v=cX4q0e124C4
+
+	#223 How to Design SMPS Switch Mode Power Supply: https://www.youtube.com/watch?v=gBDZrrUu5rg&t=13s
+
+	How SMPS works | What Components We Need? Switched Mode Power Supply: https://www.youtube.com/watch?v=cK5WLMFSGnw&t=11s
+
+Buck converters (DC --> DC):
+	74- اصنع بنفسك بك كونفرتر بالجهد الذي تختار| DIY DC/DC Step-Down BUCK 3A: https://www.youtube.com/watch?v=g-36zjuSOgg
+	
+	300W CC-CV Buck Converter (0.8-28V) 12A Step down Power Module // POWER GEN: https://www.youtube.com/watch?v=4IQBN6Oy8Lg
+	
+	DIY Buck Converter || How to step down DC voltage efficiently: https://www.youtube.com/watch?v=m8rK9gU30v4
+	
+	How does Buck Converter work? | DC-DC Converter - 1: https://www.youtube.com/watch?v=W6NOV6b8kxs
+	How does Buck Converter work? | DC-DC Converter - 2: https://www.youtube.com/watch?v=cE2-g4QsKr0
+	
+	Everyday App Note: How to Design a Buck Converter Circuit with This Layout Strategy: https://www.autodesk.com/products/eagle/blog/design-buck-converter-circuit-layout-strategy/
+	
+	Linear Regulated vs. Switch Mode Power Supply: https://www.autodesk.com/products/eagle/blog/linear-regulated-vs-switch-mode-power-supply/
+
+	

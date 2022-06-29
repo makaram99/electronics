@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D2 Old Footprint=Diode 5.08mm TH V New Footprint=Diode 2.54mm TH V
+Change Component Footprint: Designator=D1 Old Footprint=DIODE 10.16MM TH H New Footprint=Diode 2.54mm TH V
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component J5 PJ
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component J6 Ros

@@ -1,0 +1,7 @@
+Added Component: Designator=J11(Pin)
+Added Component: Designator=J12(Pin)
+Added Pin To Net: NetName=MCLR Pin=J11-1
+Added Pin To Net: NetName=MCLR Pin=J12-1
+Added Member To Class: ClassName=Control Member=Component J11 Pin
+Added Member To Class: ClassName=Control Member=Component J12 Pin
+Added Room: Name=Control

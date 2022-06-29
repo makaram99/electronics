@@ -1,0 +1,11 @@
+Fuse Selection:
+	Fast acting and time delay: https://www.youtube.com/watch?v=PAepuDtryc8	
+	
+Regulation:
+	Snubber circuit:
+		Correct use of Flyback or Snubber diode across Motor or Transistor?	https://electronics.stackexchange.com/questions/93452/correct-use-of-flyback-or-snubber-diode-across-motor-or-transistor
+		
+		Understanding Relay Coil Voltage Specifications: https://forum.digikey.com/t/understanding-relay-coil-voltage-specifications/946
+		
+		Component Options for Relay Coil Surge Suppression: https://forum.digikey.com/t/component-options-for-relay-coil-surge-suppression/7789
+		

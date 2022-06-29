@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R4 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R5 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R6 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R7 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Change Component Designator: OldDesignator=GND NewDesignator=P11
+Change Component Designator: OldDesignator=VCC NewDesignator=P10

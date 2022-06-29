@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetBuzzer_1 Pin=J10-1
+Change Component Footprint: Designator=D3 Old Footprint=Diode 2.54mm TH V New Footprint=Diode 5.08mm TH V
+Change Component Footprint: Designator=J5 Old Footprint=HEADER MALE 2.54MM 4 PINS TH New Footprint=Pin
+Change Component Footprint: Designator=R1 Old Footprint=RES 7.62MM H TH New Footprint=Res 5.08mm V TH
+Change Component Comment : Designator=J5 Old Comment=Header male 4 ways New Comment=Pin
+Change component parameters: Designator = "J5" ("J5"); Footprint = "HEADER MALE 2.54MM 4 PINS TH"; UniqueID = "\QLJZBZZW" ("\QLJZBZZW")
+Added Component: Designator=P14(Header Male 2.54mm 3 Pins TH)
+Add component (AddParameter): Name = "Case/Package"; Value = "2340-6111TG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5161/ts0766-242217-5161112.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Aug-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.3m.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 40 Position, Height 8.636 mm, Tail Length 3.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "2340-6111TG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rows"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Buzzer-2
+Added Pin To Net: NetName=NetBuzzer_1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=P14-3
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=P14-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=P14-1
+Added Net: Name=NetLED5_1
+Added Member To Class: ClassName=Control Member=Component J5 Pin
+Added Member To Class: ClassName=Control Member=Component J11 Header male 1 way
+Added Member To Class: ClassName=Control Member=Component J12 Header male 1 way
+Added Member To Class: ClassName=Control Member=Component J13 Header male 2 ways
+Added Member To Class: ClassName=Control Member=Component J14 Header male 2 ways
+Added Member To Class: ClassName=Control Member=Component P2 Header male 3 ways with jumper
+Added Member To Class: ClassName=Control Member=Component P5 Header male 9 ways
+Added Member To Class: ClassName=Control Member=Component P7 Header male 3 ways with jumper
+Added Member To Class: ClassName=Control Member=Component P12 Header male 6 ways
+Added Member To Class: ClassName=Control Member=Component P13 Header male 3 ways with jumper
+Added Member To Class: ClassName=Control Member=Component P14 Header male 3 ways
+Added Member To Class: ClassName=Control Member=Component  Relay 5V SRD-05VDC-SL-C
+Added Room: Name=Control

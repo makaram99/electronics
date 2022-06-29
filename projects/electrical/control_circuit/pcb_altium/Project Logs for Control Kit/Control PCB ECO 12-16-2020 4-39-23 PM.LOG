@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=P14 Old Footprint=HEADER MALE 2.54MM 3 PINS TH New Footprint=Header Male 2.54mm 3 Pins TH
+Change Component Designator: OldDesignator= NewDesignator=RL2
+Change Net Name : Old Net Name=Net_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=Net_2 New Net Name=NetD2_1
+Change Net Name : Old Net Name=Net_3 New Net Name=NetD2_2
+Change Net Name : Old Net Name=Net_5 New Net Name=NetD3_2
+Added Member To Class: ClassName=Control Member=Component RL2 Relay 5V SRD-05VDC-SL-C
+Added Room: Name=Control

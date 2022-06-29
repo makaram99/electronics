@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component J6 Ros
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component R6 390R 2W
+Added Room: Name=Power_Adjustable_With_LM317T

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=LED4 Old Footprint=LED 3mm Green TH New Footprint=LED 5MM GREEN TH
+Change Component Footprint: Designator=LED3 Old Footprint=LED 3mm Red TH New Footprint=LED 5MM RED TH
+Change Component Footprint: Designator=LED5 Old Footprint=LED 3mm Yellow TH New Footprint=LED 5mm Yellow TH
+Change Component Footprint: Designator=R4 Old Footprint=Res 7.62mm H TH New Footprint=Res 2.54mm V TH
+Change Component Footprint: Designator=R5 Old Footprint=Res 7.62mm H TH New Footprint=Res 2.54mm V TH
+Change Component Footprint: Designator=R6 Old Footprint=Res 7.62mm H TH New Footprint=Res 2.54mm V TH
+Change Component Footprint: Designator=R7 Old Footprint=Res 7.62mm H TH New Footprint=Res 2.54mm V TH

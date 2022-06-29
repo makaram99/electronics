@@ -1,0 +1,33 @@
+Reverse Polarity:
+	With relay (another way): https://www.youtube.com/watch?v=291RhdrHc80&t=2s
+	With MOSFET	: https://circuitdigest.com/electronic-circuits/reverse-polarity-protection-circuit-diagram
+				: https://www.youtube.com/watch?v=IrB-FPcv1Dc
+	With Diode and Fuse	: https://youtu.be/khZlk7ywGXs
+	
+	Snubber circuit:
+		Correct use of Flyback or Snubber diode across Motor or Transistor?	https://electronics.stackexchange.com/questions/93452/correct-use-of-flyback-or-snubber-diode-across-motor-or-transistor
+		
+		Understanding Relay Coil Voltage Specifications: https://forum.digikey.com/t/understanding-relay-coil-voltage-specifications/946
+		
+		Component Options for Relay Coil Surge Suppression: https://forum.digikey.com/t/component-options-for-relay-coil-surge-suppression/7789
+
+Summary:
+Reverse polarity can cause harm to circuit components such as capactiors, ICs, and other components that is not safe in reverse polarity. So, there are many solutions, each of them come with its pros and cons:
+1. Using a diode in the current path
+	It is the simplest and cheapest solution, but its cons is that it has a forward voltage of 0.7v. So, with high currents passing in the circuit, it consume high power. For example if the current is 5A,
+	The diode's power consumption is 0.7 * 5 = 3.5W
+
+2. Using Shottky diode in the current path
+	Shottky diode has an advantage over the general purpose diode in respect to power consumption. It has only 0.2V forward cvoltage drop. So, if the current is 5A, the diode's power consumption is 0.2 * 5 = 1W
+
+3. USing Relay
+	A relay contact does not have forward voltage drop as diodes, but its cons are that its contact has a resistance of about 100mOhm, differs from one relay to another.
+	So, if a current of 5A passes through the contact, it will have a voltage drop of 5 * 0.1 = 0.5V
+	
+4. Using MOSFET
+	MOSFET has a lower internal resistance of about 60mOhm, differs from one to another. So, if a current of 5A passes through the MOSFET, it will have a voltage drop of 5 * 0.06 = 0.3V
+	
+5. Using a diode in reverse connection as a flywheeling diode, with Fuse
+	The diode will be connected as a flywheeling diode, and the fuse is put in the current path. So, if the polarity is reversed, It will be applied on the diode. So, the diode is now in forward connection, and it will get its forward voltage drop, 0.7V. So, the remaining voltage (12 - 0.7 = 11.3V) will be dropped over the fuse and wires, which have a very low resistance. So, a high current will pass through the fuse and the diode, and the fuse will be damaged. 
+	But take care of diode's forward current to avoid its failure before the fuse failure. So, get a diode with highr current rating.
+

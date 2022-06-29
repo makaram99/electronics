@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=P2 Old Footprint=Header Male 2.54mm 3 Pins TH New Footprint=Header Male 2.54mm 3 Pins TH
+Change Component Footprint: Designator=P4 Old Footprint=Header Male 2.54mm 3 Pins TH New Footprint=Header Male 2.54mm 3 Pins TH
+Change Component Footprint: Designator=P7 Old Footprint=Header Male 2.54mm 3 Pins TH New Footprint=Header Male 2.54mm 3 Pins TH
+Change Component Footprint: Designator=P8 Old Footprint=Header Male 2.54mm 3 Pins TH New Footprint=Header Male 2.54mm 3 Pins TH
+Change Component Footprint: Designator=P9 Old Footprint=Header Male 2.54mm 3 Pins TH New Footprint=Header Male 2.54mm 3 Pins TH
+Change Component Footprint: Designator=P5 Old Footprint=Header Male 2.54mm 6 Pins TH New Footprint=Header Male 2.54mm 6 Pins TH
+Change Component Footprint: Designator=P1 Old Footprint=Header Male 2.54mm 8 Pins TH New Footprint=Header Male 2.54mm 8 Pins TH
+Change Component Footprint: Designator=P3 Old Footprint=Header Male 2.54mm 8 Pins TH New Footprint=Header Male 2.54mm 8 Pins TH
+Change Component Footprint: Designator=P6 Old Footprint=Header Male 2.54mm 8 Pins TH New Footprint=Header Male 2.54mm 8 Pins TH
+Change Component Designator: OldDesignator=* NewDesignator=Pin
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetLS1_1

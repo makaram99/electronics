@@ -1,0 +1,34 @@
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID= New VaultGUID=0D2B313C-AD23-4044-9BA1-2B5D4AE0134E Old ItemGUID= New ItemGUID=B05A4B84-925B-481A-A96E-CEE14A4DBE1F Old RevisionGUID= New RevisionGUID=9585B1AD-CA43-493C-B278-8799321DA27C
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "PN2222"; UniqueID = "\QBJPZBLE" ("\QBJPZBLE")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-226-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.1.0, 07/2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "300MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "hFE Min"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, Body Dia 4.79 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "625mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vce Max"; Value = "1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs (Max)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_2 Pin=Q1-1
+Added Pin To Net: NetName=NetP4_2 Pin=Q1-2
+Added Pin To Net: NetName=Net_3 Pin=Q1-3
+Added Member To Class: ClassName=Control Member=Component D2 1N4007
+Added Member To Class: ClassName=Control Member=Component D3 1N4007
+Added Member To Class: ClassName=Control Member=Component J4 Power Device
+Added Member To Class: ClassName=Control Member=Component J5
+Added Member To Class: ClassName=Control Member=Component LED2 Green
+Added Member To Class: ClassName=Control Member=Component Q1 Comment
+Added Member To Class: ClassName=Control Member=Component R3 390R 0.25W
+Added Room: Name=Control

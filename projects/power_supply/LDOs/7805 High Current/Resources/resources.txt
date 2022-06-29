@@ -1,0 +1,21 @@
+Regulation:
+	produce high current: https://electronics.stackexchange.com/questions/335084/how-to-increase-the-output-current-of-lm7805
+
+General:
+	Reverse polarity:
+		Article: https://circuitdigest.com/electronic-circuits/reverse-polarity-protection-circuit-diagram
+		Video: https://www.youtube.com/watch?v=IrB-FPcv1Dc
+	=====================================================
+	ESD Protection:
+		why and how to protect microcontrollers efficiently	: https://www.youtube.com/watch?v=AjVO_xXJBFM
+		Protection Devices from ST: https://www.st.com/en/protection-devices.html
+	=====================================================
+	Heatsin for	LM7805:	http://www.reuk.co.uk/wordpress/electric-circuit/lm317t-heatsinking/#:~:text=An%20LM317T%20can%20safely%20be,would%20not%20require%20a%20heatsink.&text=A%20heatsink%20would%20definitely%20be%20required%20or%20the%20regulator%20would%20overheat.
+	=====================================================
+	Snubber circuit:
+		Correct use of Flyback or Snubber diode across Motor or Transistor?	https://electronics.stackexchange.com/questions/93452/correct-use-of-flyback-or-snubber-diode-across-motor-or-transistor
+		
+		Understanding Relay Coil Voltage Specifications: https://forum.digikey.com/t/understanding-relay-coil-voltage-specifications/946
+		
+		Component Options for Relay Coil Surge Suppression: https://forum.digikey.com/t/component-options-for-relay-coil-surge-suppression/7789
+		

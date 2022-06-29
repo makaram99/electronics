@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C3 Old Footprint=Capacitor 2.54mm 7mmRadial New Footprint=Cap 5.08mm Radial
+Added Room: Name=Power_Adjustable_With_LM317T

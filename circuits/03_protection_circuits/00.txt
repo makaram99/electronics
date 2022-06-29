@@ -1,0 +1,13 @@
+AC overvoltage							: https://circuitdigest.com/electronic-circuits/230v-ac-mains-over-voltage-protection-circuit
+Overcurrent with op-amp					: https://circuitdigest.com/electronic-circuits/overcurrent-protection-circuit-using-op-amp#comments
+Short circuit with restart button		: https://circuitdigest.com/electronic-circuits/short-circuit-protection-circuit-diagram#
+Reverse polarity						: https://circuitdigest.com/electronic-circuits/reverse-polarity-protection-circuit-diagram
+										: https://www.youtube.com/watch?v=IrB-FPcv1Dc
+Using Transistors						: https://www.youtube.com/watch?v=QRO2zrl4GVE
+=====================================================
+ESD Protecction:
+why and how to protect microcontrollers efficiently	: https://www.youtube.com/watch?v=AjVO_xXJBFM
+Protection Devices from ST							: https://www.st.com/en/protection-devices.html
+=====================================================
+Heatsin:	LM317:	http://www.reuk.co.uk/wordpress/electric-circuit/lm317t-heatsinking/#:~:text=An%20LM317T%20can%20safely%20be,would%20not%20require%20a%20heatsink.&text=A%20heatsink%20would%20definitely%20be%20required%20or%20the%20regulator%20would%20overheat.
+			

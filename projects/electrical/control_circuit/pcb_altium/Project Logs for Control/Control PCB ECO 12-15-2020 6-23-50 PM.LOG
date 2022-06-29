@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=+VE Pin=J7-1
+Added Pin To Net: NetName=-VE Pin=J7-2
+Added Pin To Net: NetName=PU1 Pin=J8-1
+Added Pin To Net: NetName=PU2 Pin=J8-2
+Added Pin To Net: NetName=PD1 Pin=J9-1
+Added Pin To Net: NetName=PD2 Pin=J9-2
+Added Member To Class: ClassName=Control Member=Component P? 2340-6111TG
+Added Member To Class: ClassName=Control Member=Component P? 2340-6111TG
+Added Member To Class: ClassName=Control Member=Component P? 2340-6111TG
+Added Member To Class: ClassName=Control Member=Component P? 2340-6111TG

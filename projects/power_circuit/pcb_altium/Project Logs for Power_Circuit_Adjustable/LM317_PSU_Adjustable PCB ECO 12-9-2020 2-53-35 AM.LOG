@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=LED1 Old Footprint=LED 5mm Red New Footprint=LED 3mm Blue
+Change Component Footprint: Designator=LED2 Old Footprint=LED 5mm Red New Footprint=LED 3mm Blue
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC2_1 Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-K
+Added Pin To Net: NetName=NetC3_1 Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-K

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P10 Old Footprint=Header Male 2.54mm 8 Pins TH New Footprint=Header Male 2.54mm 8 Pins TH
+Change Component Footprint: Designator=P11 Old Footprint=Header Male 2.54mm 8 Pins TH New Footprint=Header Male 2.54mm 8 Pins TH
+Change Component Footprint: Designator=R4 Old Footprint=Res 7.62mm H TH New Footprint=Res 2.54mm V TH
+Change Component Footprint: Designator=R5 Old Footprint=Res 7.62mm H TH New Footprint=Res 2.54mm V TH
+Change Component Footprint: Designator=R6 Old Footprint=Res 7.62mm H TH New Footprint=Res 2.54mm V TH
+Change Component Footprint: Designator=R7 Old Footprint=Res 7.62mm H TH New Footprint=Res 2.54mm V TH
+Change Component Designator: OldDesignator=P10 NewDesignator=VCC
+Change Component Designator: OldDesignator=P11 NewDesignator=GND
+Change Pin Designator/Name:  Old Designator=RL1-1 Old Name=COM New Designator =NO New Name=5
+Change Pin Designator/Name:  Old Designator=RL1-5 Old Name=NO New Designator =COM New Name=1

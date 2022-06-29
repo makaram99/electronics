@@ -1,0 +1,2 @@
+Short circuit with restart button		: https://circuitdigest.com/electronic-circuits/short-circuit-protection-circuit-diagram#
+Using Transistors						: https://www.youtube.com/watch?v=QRO2zrl4GVE

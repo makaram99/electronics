@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C3 Old Footprint=Cap Ceramic 104 New Footprint=CAP CERAMIC 104 2.54
+Change Component Footprint: Designator=C4 Old Footprint=Cap Ceramic 104 New Footprint=CAP CERAMIC 104 2.54
+Change Component Footprint: Designator=P15 Old Footprint=Header Male 2.54mm 3 Pins TH New Footprint=HEADER MALE 2.54MM 3 PINS TH
+Change Component Footprint: Designator=P16 Old Footprint=Header Male 2.54mm 3 Pins TH New Footprint=HEADER MALE 2.54MM 3 PINS TH
+Change Component Footprint: Designator=IC1 Old Footprint=PIC16F877A TH New Footprint=PIC16F877A TH With Socket
+Change Component Comment: Designator=C1 Old Comment=100nF 50V New Comment=33pF 50V
+Change Component Comment: Designator=C2 Old Comment=100nF 50V New Comment=33pF 50V

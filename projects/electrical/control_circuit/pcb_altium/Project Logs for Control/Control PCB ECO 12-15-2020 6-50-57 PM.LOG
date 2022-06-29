@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PIC_VDD Pin=D1-1
+Removed Pin From Net: NetName=PIC_VDD Pin=LED1-1
+Removed Pin From Net: NetName=PIC_VDD Pin=RL1-3
+Removed Pin From Net: NetName=PIC_VDD Pin=RL1-5
+Removed Pin From Net: NetName=PIC_VDD Pin=SW1-2
+Removed Pin From Net: NetName=PIC_VDD Pin=SW1-2
+Added Pin To Net: NetName=PIC_VDD Pin=P2-2
+Added Pin To Net: NetName=PIC_VDD Pin=R2-2
+Added Pin To Net: NetName=VOUT Pin=D1-1
+Added Pin To Net: NetName=VOUT Pin=LED1-1
+Added Pin To Net: NetName=VOUT Pin=RL1-3
+Added Pin To Net: NetName=VOUT Pin=RL1-5
+Added Pin To Net: NetName=VOUT Pin=SW1-2
+Added Pin To Net: NetName=VOUT Pin=SW1-2
+Added Net: Name=VOUT
+Added Member To Class: ClassName=Control Member=Component P5 2340-6111TG
+Added Room: Name=Control

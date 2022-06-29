@@ -1,0 +1,82 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=VR? NewDesignator=VR1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ2_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=D4-1
+Added Pin To Net: NetName=NetC4_1 Pin=IC1-1
+Added Pin To Net: NetName=NetC4_1 Pin=R1-1
+Added Pin To Net: NetName=NetC4_1 Pin=VR1-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R4-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=J3-2
+Added Pin To Net: NetName=NetD6_1 Pin=K1-3
+Added Pin To Net: NetName=NetD6_1 Pin=K1-5
+Added Pin To Net: NetName=NetD6_1 Pin=R4-1
+Added Pin To Net: NetName=NetD6_1 Pin=S1-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=Relay+ve Pin=C1-1
+Added Pin To Net: NetName=Relay+ve Pin=D1-1
+Added Pin To Net: NetName=Relay+ve Pin=D4-2
+Added Pin To Net: NetName=Relay+ve Pin=D5-1
+Added Pin To Net: NetName=Relay+ve Pin=D6-2
+Added Pin To Net: NetName=Relay+ve Pin=IC1-2
+Added Pin To Net: NetName=Relay+ve Pin=J3-1
+Added Pin To Net: NetName=Relay+ve Pin=K1-2
+Added Pin To Net: NetName=Relay+ve Pin=R1-2
+Added Net: Name=Relay+ve
+Added Pin To Net: NetName=Relay-ve Pin=C1-2
+Added Pin To Net: NetName=Relay-ve Pin=C2-1
+Added Pin To Net: NetName=Relay-ve Pin=C3-2
+Added Pin To Net: NetName=Relay-ve Pin=C4-2
+Added Pin To Net: NetName=Relay-ve Pin=J1-1
+Added Pin To Net: NetName=Relay-ve Pin=J2-1
+Added Pin To Net: NetName=Relay-ve Pin=K1-1
+Added Pin To Net: NetName=Relay-ve Pin=MOV-1
+Added Pin To Net: NetName=Relay-ve Pin=R2-1
+Added Pin To Net: NetName=Relay-ve Pin=R3-1
+Added Pin To Net: NetName=Relay-ve Pin=S1-1
+Added Pin To Net: NetName=Relay-ve Pin=VR1-2
+Added Pin To Net: NetName=Relay-ve Pin=VR1-3
+Added Net: Name=Relay-ve
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component C3 Cap Pol1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component C4 Cap Pol1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component D1 Diode 1N4007
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component D2 Zener 9.1V
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component D3 LED_RED12V
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component D5 LED_REDOut
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component D6 Diode 1N4007
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component J1 12V
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component J3 PowerOut
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component R1 Res1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component R2 Res1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component R3 Res1
+Added Room: Name=Power_Adjustable_With_LM317T

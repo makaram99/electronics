@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC_5V Pin=RL?-1
+Removed Pin From Net: NetName=GND Pin=RL?-2
+Removed Pin From Net: NetName=PIC_VDD Pin=RL?-5
+Removed Member From Class: ClassName=Control Member=RL?

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=IC1 Old Footprint=TIP32C TO-220 TH New Footprint=TIP32C TO-220 TH Heatsink
+Change Component Comment : Designator=Z2 Old Comment=9.1V New Comment=30V
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Room: Name=Power_Adjustable_With_LM317T

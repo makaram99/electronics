@@ -1,0 +1,12 @@
+Items prefixed by // is optional to see.
+
+Protection:
+	//AC overvoltage					: https://circuitdigest.com/electronic-circuits/230v-ac-mains-over-voltage-protection-circuit
+	//Overcurrent with op-amp			: https://circuitdigest.com/electronic-circuits/overcurrent-protection-circuit-using-op-amp#comments
+	//Short circuit with restart button	: https://circuitdigest.com/electronic-circuits/short-circuit-protection-circuit-diagram#
+	Reverse polarity					: Used: https://www.youtube.com/watch?v=IrB-FPcv1Dc
+										: https://circuitdigest.com/electronic-circuits/reverse-polarity-protection-circuit-diagram
+								
+
+Circuits:
+	PSU (1-25)V, 10A with cooling fan	: https://www.youtube.com/watch?v=q39YfcpMyRY

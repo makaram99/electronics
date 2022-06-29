@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P? Old Footprint=Header Male 2.54mm 9 Pins TH New Footprint=Header Male 2.54mm 9 Pins TH
+Change Component Footprint: Designator=R8 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Change Component Designator: OldDesignator=LS1 NewDesignator=Buzzer

@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R3 Old Comment=0.5R 0.5W New Comment=100K 0.25W
+Change Component Comment : Designator=R5 Old Comment=240R 0.5W New Comment=100K 0.25W
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Room: Name=Power_Adjustable_With_LM317T
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil

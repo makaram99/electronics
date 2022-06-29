@@ -1,0 +1,5 @@
+Version 2:
+	Control Circuit:
+		1. Edit GPIOs pin headeres' Letters.
+		2. Remove residual diode on relay interface.
+		3. Use dip-switches instead of jumpers for peripherals power closer to main power leads and use indication LEDs.

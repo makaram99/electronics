@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R5 Old Footprint=RES 7.62MM H TH New Footprint=Res 2.54mm V TH
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component F1 2A
+Added Room: Name=Power_Adjustable_With_LM317T
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil

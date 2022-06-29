@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J1 Old Footprint=Screw Terminal Block 5.08mm New Footprint=Screw Terminal Block 5.08mm Green
+Change Component Footprint: Designator=J2 Old Footprint=Screw Terminal Block 5.08mm New Footprint=Screw Terminal Block 5.08mm Green
+Change Component Footprint: Designator=J3 Old Footprint=Screw Terminal Block 5.08mm New Footprint=Screw Terminal Block 5.08mm Green
+Change Component Comment : Designator=J3 Old Comment=5V O/P New Comment=Padj O/P
+Change Component Comment : Designator=J2 Old Comment=Power O/P New Comment=P I/P
+Change Component Comment : Designator=J1 Old Comment=Power O/P New Comment=P O/P
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Room: Name=Power_Adjustable_With_LM317T
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil

@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J4 NewDesignator=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component J3 JST
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component R6 390R 2W
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil

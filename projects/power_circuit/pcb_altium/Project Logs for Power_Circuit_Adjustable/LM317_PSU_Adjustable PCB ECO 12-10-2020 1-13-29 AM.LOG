@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetLED2_2 Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R6-2
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component F1 2A
+Added Room: Name=Power_Adjustable_With_LM317T

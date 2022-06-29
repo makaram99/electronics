@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=IC1 Old Footprint=TIP32C TO-220 TH New Footprint=TIP32C TO-220 TH Heatsink
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Room: Name=Power_Adjustable_With_LM317T
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=100mil

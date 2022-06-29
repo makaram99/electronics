@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=RE0 Pin=P2-1
+Removed Pin From Net: NetName=RE1 Pin=P2-2
+Removed Pin From Net: NetName=RE2 Pin=P2-3
+Removed Pin From Net: NetName=RA0 Pin=P5-1
+Removed Pin From Net: NetName=RA1 Pin=P5-2
+Removed Pin From Net: NetName=RA2 Pin=P5-3
+Removed Pin From Net: NetName=RA3 Pin=P5-4
+Removed Pin From Net: NetName=RA4 Pin=P5-5
+Removed Pin From Net: NetName=RA5 Pin=P5-6
+Removed Member From Class: ClassName=Control Member=P2
+Removed Member From Class: ClassName=Control Member=P5
+Change Component Footprint: Designator=R4 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R5 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R6 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R7 Old Footprint=Res 2.54mm V TH New Footprint=Res 7.62mm H TH
+Added Component: Designator=P?(Header Male 2.54mm 9 Pins TH)
+Add component (AddParameter): Name = "Case/Package"; Value = "2340-6111TG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5161/ts0766-242217-5161112.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Aug-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.3m.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 40 Position, Height 8.636 mm, Tail Length 3.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "2340-6111TG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rows"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RA0 Pin=P?-1
+Added Pin To Net: NetName=RA1 Pin=P?-2
+Added Pin To Net: NetName=RA2 Pin=P?-3
+Added Pin To Net: NetName=RA3 Pin=P?-4
+Added Pin To Net: NetName=RA4 Pin=P?-5
+Added Pin To Net: NetName=RA5 Pin=P?-6
+Added Pin To Net: NetName=RE0 Pin=P?-7
+Added Pin To Net: NetName=RE1 Pin=P?-8
+Added Pin To Net: NetName=RE2 Pin=P?-9
+Added Member To Class: ClassName=Control Member=Component P? 2340-6111TG
+Added Member To Class: ClassName=Control Member=Component RL? 10A 30VDC

@@ -1,0 +1,4 @@
+Synchronous Counter: https://www.electronics-tutorials.ws/counter/count_3.html
+7-segment Display Counter: https://www.electronics-tutorials.ws/counter/7-segment-display.html
+The JK Flip Flop: https://www.electronics-tutorials.ws/sequential/seq_2.html
+J-k Flip Flop Truth Table: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiDHmk7gzKgs&psig=AOvVaw2n4t8k4GGjKOUO2RKsZKSk&ust=1597146753128000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi9lLjJkOsCFQAAAAAdAAAAABAD

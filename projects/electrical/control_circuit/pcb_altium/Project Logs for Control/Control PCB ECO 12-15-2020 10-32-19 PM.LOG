@@ -1,0 +1,39 @@
+Change Component Comment : Designator=J5 Old Comment=3A New Comment=Header male 4 ways
+Change Component Comment : Designator=VR1 Old Comment=5K 0.5W New Comment=Potentiometer 10K
+Change Component Comment : Designator=VR2 Old Comment=5K 0.5W New Comment=Potentiometer 10K
+Change Component Comment : Designator= Old Comment=5V New Comment=Relay 5V SRD-05VDC-SL-C
+Change Component Comment : Designator=SW1 Old Comment=6A New Comment=Tactile Switch 4 poles
+Change Component Comment : Designator=SW2 Old Comment=6A New Comment=Tactile Switch 4 poles
+Change Component Comment : Designator=SW3 Old Comment=6A New Comment=Tactile Switch 4 poles
+Change Component Comment : Designator=SW4 Old Comment=6A New Comment=Tactile Switch 4 poles
+Change Component Comment : Designator=SW5 Old Comment=6A New Comment=Tactile Switch 4 poles
+Change Component Comment : Designator=SW6 Old Comment=6A New Comment=Tactile Switch 4 poles
+Change Component Comment : Designator=Y1 Old Comment=8MHz New Comment=Crystal 8MHz
+Change Component Comment : Designator=RL1 Old Comment=10A 30VDC New Comment=Relay 5V SRD-05VDC-SL-C
+Change Component Comment : Designator=J10 Old Comment=10 A New Comment=Header male 2 ways
+Change Component Comment : Designator=J13 Old Comment=10 A New Comment=Header male 2 ways
+Change Component Comment : Designator=J14 Old Comment=10 A New Comment=Header male 2 ways
+Change Component Comment : Designator=P4 Old Comment=2340-6111TG New Comment=Header male 3 ways
+Change Component Comment : Designator=P8 Old Comment=2340-6111TG New Comment=Header male 3 ways
+Change Component Comment : Designator=P9 Old Comment=2340-6111TG New Comment=Header male 3 ways
+Change Component Comment : Designator=P2 Old Comment=2340-6111TG New Comment=Header male 3 ways with jumper
+Change Component Comment : Designator=P7 Old Comment=2340-6111TG New Comment=Header male 3 ways with jumper
+Change Component Comment : Designator=P13 Old Comment=2340-6111TG New Comment=Header male 3 ways with jumper
+Change Component Comment : Designator=P12 Old Comment=2340-6111TG New Comment=Header male 6 ways
+Change Component Comment : Designator=P1 Old Comment=2340-6111TG New Comment=Header male 8 ways
+Change Component Comment : Designator=P3 Old Comment=2340-6111TG New Comment=Header male 8 ways
+Change Component Comment : Designator=P6 Old Comment=2340-6111TG New Comment=Header male 8 ways
+Change Component Comment : Designator=P5 Old Comment=2340-6111TG New Comment=Header male 9 ways
+Change Component Comment : Designator=Q1 Old Comment=Comment New Comment=Transistor PN2222
+Change Component Comment : Designator=J6 Old Comment=Ex-Button New Comment=Header male 2 ways
+Change Component Comment : Designator=LED2 Old Comment=Green New Comment=Green 5mm
+Change Component Comment : Designator=LED4 Old Comment=Green New Comment=Green 5mm
+Change Component Comment : Designator=J9 Old Comment=PD New Comment=Header male 2 ways
+Change Component Comment : Designator=J11 Old Comment=Pin New Comment=Header male 1 way
+Change Component Comment : Designator=J12 Old Comment=Pin New Comment=Header male 1 way
+Change Component Comment : Designator=J7 Old Comment=Power New Comment=Header male 2 ways
+Change Component Comment : Designator=J8 Old Comment=PU New Comment=Header male 2 ways
+Change Component Comment : Designator=LED1 Old Comment=RED New Comment=RED 5mm
+Change Component Comment : Designator=LED3 Old Comment=RED New Comment=RED 5mm
+Change Component Comment : Designator=LED5 Old Comment=Yellow New Comment=Yellow 5mm
+Added Room: Name=Control

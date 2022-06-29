@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R3 Old Footprint=RES 10.16MM H TH New Footprint=Res 7.62mm H TH
+Added Pin To Net: NetName=NetC3_1 Pin=IC2-1
+Added Pin To Net: NetName=NetC4_1 Pin=IC2-2
+Added Pin To Net: NetName=NetC4_1 Pin=IC2-2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC2-3

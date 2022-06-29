@@ -1,0 +1,8 @@
+Version 2:
+	Power Circuit:
+		1. Edit footprint of LM317 for easy soldering.
+		2. Reverse voltage signs and o/p connector.
+		3. Increase Border area to avoid screw' holes distortion.
+		4. Add pin header for far access to Latch button.
+		5. Add pin header for dfar access for fuse.
+		6. Buy components first to modify overlay.

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J1 Old Footprint=Screw Terminal Block 5.08mm TH Green New Footprint=Screw Terminal Block  Pluggable5.08mm TH Green
+Change Component Footprint: Designator=J4 Old Footprint=Screw Terminal Block 5.08mm TH Green New Footprint=Screw Terminal Block  Pluggable5.08mm TH Green
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Room: Name=Power_Adjustable_With_LM317T

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R4 Old Footprint=FileName=F:\Bussiness\Courses\CAD\PCB design\Libraries\Altium\MyLib.PcbLib|Footprint=Res 7.62mm H TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R5 Old Footprint=FileName=F:\Bussiness\Courses\CAD\PCB design\Libraries\Altium\MyLib.PcbLib|Footprint=Res 7.62mm H TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R6 Old Footprint=FileName=F:\Bussiness\Courses\CAD\PCB design\Libraries\Altium\MyLib.PcbLib|Footprint=Res 7.62mm H TH New Footprint=Res 7.62mm H TH
+Change Component Footprint: Designator=R7 Old Footprint=FileName=F:\Bussiness\Courses\CAD\PCB design\Libraries\Altium\MyLib.PcbLib|Footprint=Res 7.62mm H TH New Footprint=Res 7.62mm H TH
+Change Component Designator: OldDesignator=RL? NewDesignator=RL1
+Added Pin To Net: NetName=GND Pin=LS1-2

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=D2-2
+Removed Member From Class: ClassName=Power_Adjustable_With_LM317T Member=D2
+Added Component: Designator=Z?(DIOAD1413W86L463D238)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1N4735A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1n4735a/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/1N4736AT-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4735A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-1N4735A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/1N4735A?qs=SSucg2PyLi5YUnIaMJAttg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=Z?-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Z?-2
+Added Net: Name=NetQ1_1
+Added Member To Class: ClassName=Power_Adjustable_With_LM317T Member=Component Z? 1N4735A
+Added Room: Name=Power_Adjustable_With_LM317T

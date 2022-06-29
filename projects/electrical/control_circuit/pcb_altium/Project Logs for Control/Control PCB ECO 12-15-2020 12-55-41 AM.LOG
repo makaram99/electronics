@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=RL1-2
+Removed Pin From Net: NetName=PIC_VDD Pin=RL1-3
+Added Pin To Net: NetName=PIC_VDD Pin=RL1-2
+Added Pin To Net: NetName=GND Pin=RL1-3
+Added Room: Name=Control

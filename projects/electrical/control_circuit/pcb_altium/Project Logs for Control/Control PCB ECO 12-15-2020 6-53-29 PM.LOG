@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PIC_VDD Pin=IC1-11
+Removed Pin From Net: NetName=PIC_VDD Pin=IC1-32
+Removed Pin From Net: NetName=PIC_VDD Pin=P2-2
+Removed Pin From Net: NetName=PIC_VDD Pin=P12-2
+Removed Pin From Net: NetName=PIC_VDD Pin=R2-2
+Added Pin To Net: NetName=PIC_VDD Pin=D1-1
+Added Pin To Net: NetName=PIC_VDD Pin=LED1-1
+Added Pin To Net: NetName=PIC_VDD Pin=RL1-3
+Added Pin To Net: NetName=PIC_VDD Pin=RL1-5
+Added Pin To Net: NetName=PIC_VDD Pin=SW1-2
+Added Pin To Net: NetName=PIC_VDD Pin=SW1-2
+Change Net Name : Old Net Name=PIC_VDD New Net Name=VOUT
+Added Pin To Net: NetName=PIC_VDD Pin=IC1-11
+Added Pin To Net: NetName=PIC_VDD Pin=IC1-32
+Added Pin To Net: NetName=PIC_VDD Pin=P2-2
+Added Pin To Net: NetName=PIC_VDD Pin=P12-2
+Added Pin To Net: NetName=PIC_VDD Pin=R2-2
+Added Net: Name=PIC_VDD
+Added Room: Name=Control
